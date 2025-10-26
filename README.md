@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Enthusiastic web development beginner from 🇧🇷, actively building websites and developing games.</h4>
+<h3 align="left">Enthusiastic web development beginner from 🇧🇷, actively building websites and developing games.</h4>
 
 ###
 
